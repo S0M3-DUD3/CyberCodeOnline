@@ -5,11 +5,11 @@
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Suche",
+ 	 	 	"trans": "Aufträge",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
- 	 	 	"trans": "Plaudern",
+ 	 	 	"trans": "Konversation",
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
@@ -28,7 +28,7 @@
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Hier kannst du Globale Vorteile kaufen",
+ 	 	 	 	"trans": "Hier kannst du Globale Verbesserungen kaufen",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
@@ -46,7 +46,7 @@
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kosmetischer Cyberwear",
+ 	 	 	 	"trans": "Kosmetische Cyberwear",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
@@ -162,7 +162,7 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Eine Werkbank mit allen notwendigen Werkzeugen, um an deiner Ausrüstung zu basteln.",
+ 	 	 	 	"trans": "Eine Werkbank mit allen notwendigen Werkzeugen erlaubt es dir an deiner Ausrüstung zu basteln.",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
@@ -188,7 +188,7 @@
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Du musst mindestens Level 10 sein, um mit diesem Händler zu Handeln",
+ 	 	 	 	"trans": "Du musst mindestens Level 10 sein, um mit diesem Händler zu reden",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	},
  	 	 	"defaultLines": {
@@ -281,7 +281,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Zentrum]\r\n        Eine der geschäftigsten Städte des Landes, hier begegnest du den verschiedensten Menschen aus aller Welt.",
+ 	 	 	 	"trans": "[Zentrum]\r\n        Eine der geschäftigsten Städte des Landes, ooh hier begegnest du den verschiedensten Menschen aus aller Welt.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -297,7 +297,7 @@
  	 	 	 	 	"trans": "Gehe zum Hyper Train Hauptbahnhof",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
- 	 	 	},
+ 	 	 	},   
  	 	 	"toJob": {
  	 	 	 	"name": {
  	 	 	 	 	"trans": "Gehe zum Shangri-La Gewerbegebiet",
@@ -535,19 +535,19 @@
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rüstung (Torso)",
+ 	 	 	 	"trans": "Oberteil",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rüstung (Beine)",
+ 	 	 	 	"trans": "Hose",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
  	 	"boots": {
  	 	 	"name": {
- 	 	 	 	"trans": "Stiefel",
+ 	 	 	 	"trans": "Schuhe",
  	 	 	 	"eng": "boots"
  	 	 	}
  	 	},
